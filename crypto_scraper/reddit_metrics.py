@@ -137,3 +137,4 @@ if __name__ == "__main__":
         except:
             print('FAILED FOR: ' + coin)
             failed.append(coin)
+            
